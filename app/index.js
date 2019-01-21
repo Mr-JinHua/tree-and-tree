@@ -50,7 +50,7 @@ class App extends Component {
     render() {
       return (
         <div>
-          <div>jin add</div>
+          <div>jin hahha add</div>
           {this.renderNode(treedata)}
         </div>
       )
